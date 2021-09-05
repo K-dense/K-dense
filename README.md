@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tomas / @K-dense
+- 👀 I’m interested in becoming a Full Stack Developer.
+- 🌱 I’m currently learning JavaScript and React.js.
+- 💞️ I’m looking to collaborate on front end development projects.
